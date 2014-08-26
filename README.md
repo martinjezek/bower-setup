@@ -22,12 +22,12 @@ Creates `bower.json` project info file.
 bower.json
 ```javascript
 {
-  "name": "number-picker",
+  "name": "private-plugin",
   "version": "0.0.1",
   "main": [
-    "dist/js/numberPicker.js",
-    "dist/css/numberPicker.css",
-    "dist/img/numberPicker.png"
+    "dist/js/privatePlugin.js",
+    "dist/css/privatePlugin.css",
+    "dist/img/privatePlugin.png"
   ],
   "ignore": [
     "**/.*",
